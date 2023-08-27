@@ -1,0 +1,9 @@
+0 Actinic keratoses and intraepithelial carcinomae
+1 basal cell carcinoma
+2 benign keratosis-like lesions
+3 dermatofibroma
+4 melanocytic nevi
+5 pyogenic granulomas and hemorrhage
+6 melanoma
+
+
